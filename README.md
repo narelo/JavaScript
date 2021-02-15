@@ -9,17 +9,16 @@
 
 <div>
 <table>
-<tr><th>Exercícios Básicos</th></tr>
-<tr><th>condicionais e loops</th></tr>
-<tr><td>maior entre dois números</td></tr>
-<tr><td>ordenação de array</td></tr>
-<tr><td>maior número</td></tr>
+<tr><th>Exercícios</th></tr>
 <tr><td>média</td></tr>
-<tr><td>par ou ímpar</td></tr>
-<tr><td>múltiplos de 4</td></tr>
-<tr><td>propriedades - objeto</td></tr>
-<tr><td>propriedades - data</td></tr>
-<tr><td>maior e menor altura / média de idades</td></tr>
 <tr><td>escada</td></tr>
+<tr><td>par ou ímpar</td></tr>
+<tr><td>maior número</td></tr>
+<tr><td>múltiplos de 4</td></tr>
+<tr><td>ordenação de array</td></tr>
+<tr><td>propriedades - data</td></tr>
+<tr><td>propriedades - objeto</td></tr>
+<tr><td>maior entre dois números</td></tr>
+<tr><td>maior e menor altura / média de idades</td></tr>
 </table>
 </div>
