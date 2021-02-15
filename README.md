@@ -3,8 +3,10 @@
 </h1>
 <p align="center">Códigos de exercícios resolvidos em JavaScript.</p>
 
-<h5>Condicionais e Loops</h5>
+<h3>Condicionais e Loops</h3>
+
 `basic-exercises.js`
+
 <div>
 <table>
 <tr><th>Exercícios Básicos</th></tr>
